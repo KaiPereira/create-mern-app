@@ -1,7 +1,7 @@
 {
   "name": "create-mern-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "a cool package",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/KaiPereira/create-mern-app.git"
   },
-  "author": "",
+  "author": "Kai Pereira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KaiPereira/create-mern-app/issues"
