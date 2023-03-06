@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaiPereira/create-mern-app.git"
+    "url": "git+https://github.com/KaiPereira/create-mern-app-kaipereira.git"
   },
   "author": "Kai Pereira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaiPereira/create-mern-app/issues"
+    "url": "https://github.com/KaiPereira/create-mern-app-kaipereira/issues"
   },
-  "homepage": "https://github.com/KaiPereira/create-mern-app#readme",
+  "homepage": "https://github.com/KaiPereira/create-mern-app-kaipereira#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   },
