@@ -1,24 +1,28 @@
 {
-  "name": "react-parcel-app",
+  "name": "create-mern-ts-next-app",
   "version": "1.0.9",
-  "description": "A simple starter to create react app, scalable, clean and easy to use with parcel, tests, react-router-dom, styled-components, etc.",
+  "description": "Create Mern TS Next App is a great boilerplate for your next app. It's a quick and simple way to setup your project",
   "bin": {
-    "react-parcel-app": "./bin/create-app.js"
+    "create-mern-ts-next-app": "./bin/create-app.js"
   },
   "keywords": [
     "react",
-    "parcel",
-    "boilerplate",
-    "starter"
+    "nextjs",
+    "mern",
+    "typescript",
+    "express",
+    "node",
+    "mongodb",
+    "mongoose"
   ],
-  "author": "Leopold Vertadier",
+  "author": "Kai Pereira",
   "license": "MIT",
-  "homepage": "https://github.com/Leopold-V/react-with-parcel-boilerplate",
+  "homepage": "https://github.com/KaiPereira/create-mern-app-kaipereira",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Leopold-V/react-with-parcel-boilerplate.git"
+    "url": "https://github.com/KaiPereira/create-mern-app-kaipereira.git"
   },
-  "bugs": "https://github.com/h5bp/create-html5-boilerplate/issues",
+  "bugs": "https://github.com/KaiPereira/create-mern-app-kaipereira/issues",
   "scripts": {
     "start": "npm run clean && parcel serve public/index.html --dist-dir development -p 3000",
     "build": "rimraf ./build && parcel build public/index.html --dist-dir ./build --public-url ./",
