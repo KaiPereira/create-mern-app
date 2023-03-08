@@ -1,6 +1,6 @@
 {
   "name": "create-mern-ts-next-app",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Create Mern TS Next App is a great boilerplate for your next app. It's a quick and simple way to setup your project",
   "bin": {
     "create-mern-ts-next-app": "./bin/create-app.js"

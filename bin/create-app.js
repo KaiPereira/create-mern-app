@@ -38,7 +38,7 @@ try {
   if (err.code === 'EEXIST') {
     console.log(
       '\x1b[31m',
-      `The file ${appName} already exist in the current directory, please give it another name.`,
+      `The file already exist in the current directory, please give it another name.`,
       '\x1b[0m'
     );
   } else {
